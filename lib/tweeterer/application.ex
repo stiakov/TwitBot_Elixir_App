@@ -9,6 +9,7 @@ defmodule Tweeterer.Application do
     children = [
       # Starts a worker by calling: Tweeterer.Worker.start_link(arg)
       # {Tweeterer.Worker, arg}
+      Tweeterer.TweetServer,
       Tweeterer.Scheduler
     ]
 
