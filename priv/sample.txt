@@ -1,6 +1,2 @@
-Line 1
-Line 2
-And Line LONGER XX And Line LONGER XX And Line LONGER XX And Line LONGER XX And Line LONGER XX And Line LONGER XX  And Line LONGER XX And Line LONGER XX And Line LONGER XX 
-Line 3
-Line 4
-And Line 5
+I decry the current tendency to seek patents on algorithms. There are better ways to earn a living than to prevent other people from making use of one's contributions to computer science. – Donald Knuth // #Test1 #Elixir
+If everybody has to take biology and chemistry, they can take computer science. Computer science is a more useful skill right now than a lot of other things that people are learning at school. Susan Wojcicki  // #Test2 #Elixir
